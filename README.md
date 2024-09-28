@@ -1,4 +1,4 @@
-# Project Name
+# Blue's Meme generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -8,6 +8,7 @@
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [License](#license)
+- [links] (#links)
 
 ## Overview
 
@@ -41,6 +42,10 @@ Enjoy :-) ;-).
 ![Another Screenshot Image](public/screenshots/sc3.png)
 
 *Finished*
+
+## Links
+- (Github Repo)[https://github.com/Atiloye/blue-s-meme-generator/]
+- (Live Deployment)[https://blues-meme-generator.netlify.app/]
 
 ## License
 
