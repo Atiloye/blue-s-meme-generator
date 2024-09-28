@@ -44,8 +44,8 @@ Enjoy :-) ;-).
 *Finished*
 
 ## Links
-- (Github Repo)[https://github.com/Atiloye/blue-s-meme-generator/]
-- (Live Deployment)[https://blues-meme-generator.netlify.app/]
+- [Github Repo](https://github.com/Atiloye/blue-s-meme-generator/)
+- [Live Deployment](https://blues-meme-generator.netlify.app/)
 
 ## License
 
