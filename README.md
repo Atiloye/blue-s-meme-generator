@@ -8,7 +8,7 @@
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [License](#license)
-- [links] (#links)
+- [links](#links)
 
 ## Overview
 
